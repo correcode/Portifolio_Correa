@@ -1,0 +1,157 @@
+@media screen and (min-width: 481px) and (max-width: 768px){
+
+.header{
+  display: flex;
+  width: 100%;
+}
+
+.navbar{
+  display: none;
+}
+
+.scroll-container{
+  display: flex;
+  width: 50%;
+  align-items: center;
+  justify-content: center;
+  margin-top: 150px;
+  margin-left: 25%;
+}
+
+.redes{
+  display: flex;
+  width: 50%;
+  justify-content: center;
+  align-items: center;
+  margin-left: 25%;
+}
+
+.section{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  /* border: 1px solid white; */
+}
+
+#perfil{
+  display: flex;
+  margin-left: 10%;
+}
+
+.article{
+  display: flex;
+  /* border: 1px solid white; */
+  margin-top: 120px;
+  margin-bottom: 100px;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.moreonme{
+  display: flex;
+  margin-bottom: 100px;
+  font-size: 13px;
+}
+
+#abme{
+  font-size: 20px;
+}
+
+.article2{
+  display: flex;
+  width: 100%;
+  /* border: 1px solid white; */
+}
+
+.problock{
+  display: flex;
+  background-color: transparent;
+  
+}
+
+#pro{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 400px;
+  background-color: #312fbe;
+}
+
+.servicos{
+  display: block;
+  float: center;
+}
+
+.card{
+  display: flex;
+  width: 250px;
+  font-size: 15px;
+  justify-content: center;
+  align-items: center;
+  float: center;
+  margin-bottom: 40px;
+  margin-left: 30%;
+}
+
+#set{
+  display: none;
+  width: 30px;
+}
+
+#banner{
+  display: block;
+  width: 200px;
+  float: center;
+}
+
+.torte{
+  margin-left: 15px;
+}
+
+.cardtext{
+  display: block;
+}
+
+.hard-skills{
+  display: block;
+  width: 100%;
+  margin-top: 50px;
+}
+
+#hard2{
+  margin-left: 30%;
+  font-size: 12px;
+  width: 250px;
+}
+
+.soft-skills{
+  display: block;
+  width: 100%;
+  margin-top: 10px;
+}
+
+#soft2{
+  margin-left: 30%;
+  font-size: 12px;
+  width: 250px;
+}
+
+
+} 
+@media screen and (min-width: 769px) and (max-width: 1024px){
+
+
+
+}
+
+@media screen and (min-width: 1025px) and (max-width: 1200px){
+
+
+}
+
+@media screen and (min-width: 1201px){
+
+
+}
